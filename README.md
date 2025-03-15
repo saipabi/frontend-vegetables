@@ -1,12 +1,69 @@
-# React + Vite
+🍏 Vegetables & Fruits App (MERN)
+📌 Project Overview
+The Vegetables & Fruits App is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to showcase and manage a collection of fresh vegetables and fruits. Users can browse products, add them to a cart, and view the total price dynamically.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Display a list of vegetables and fruits fetched from the backend
+✅ Add to Cart functionality with real-time updates
+✅ Remove from Cart option
+✅ Dynamic total price and cart item count updates
+✅ Styled with Bootstrap for a clean UI
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend:
+React.js (with Context API for state management)
+Bootstrap (for styling)
+React Router (for navigation)
+Axios (for API calls)
+Backend:
+Node.js & Express.js (REST API)
+MongoDB & Mongoose (Database)
+CORS (to handle cross-origin requests)
+🔧 Installation & Setup
+1️⃣ Clone the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+sh
+Copy
+Edit
+git clone https://github.com/saipabi/frontend-vegetables.git  
+cd frontend-vegetables  
+2️⃣ Install Dependencies
 
-## Expanding the ESLint configuration
+sh
+Copy
+Edit
+npm install  
+3️⃣ Run the Development Server
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+sh
+Copy
+Edit
+npm run dev  
+The frontend should now be running at http://localhost:5173 (or the port assigned by Vite).
+
+Backend Setup (if applicable)
+If the backend is not deployed, follow these steps:
+
+sh
+Copy
+Edit
+git clone https://github.com/saipabi/backend-vegetables  
+cd backend-vegetables  
+npm install  
+npm start  
+The backend will be running at http://localhost:5000.
+
+🌍 Live Demo
+🔗 Frontend: Vegetables & Fruits App
+🔗 Backend API: API Endpoint
+
+📸 Screenshots
+
+
+🏆 Contributors
+👤 Suriya R
+📧 Email: saipabi123@gmail.com
+🔗 GitHub: saipabi
+
+📜 License
+This project is licensed under the MIT License – feel free to modify and use it!
