@@ -58,8 +58,8 @@ npm start
 The backend will be running at http://localhost:5000.
 
 🌍 Live Demo
-🔗 Frontend: Vegetables & Fruits App
-🔗 Backend API: API Endpoint
+🔗 Frontend: https://frontend-app-fruitveg.netlify.app/
+🔗 Backend API: https://backend-vegetablesapp.onrender.com/
 
 🏆 Contributors
 👤 Suriya R
