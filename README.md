@@ -1,9 +1,11 @@
 🍏 Vegetables & Fruits App (MERN) 
 
 📌 Project Overview
+
 The Vegetables & Fruits App is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to showcase and manage a collection of fresh vegetables and fruits. Users can browse products, add them to a cart, and view the total price dynamically.
 
 🚀 Features
+
 Display a list of vegetables and fruits fetched from the backend
 Add to Cart functionality with real-time updates
 Remove from Cart option
@@ -11,6 +13,7 @@ Dynamic total price and cart item count updates
 Styled with Bootstrap for a clean UI
 
 🛠️ Tech Stack
+
 Frontend:
 
 React.js (with Context API for state management)
@@ -19,11 +22,13 @@ React Router (for navigation)
 Axios (for API calls)
 
 Backend:
+
 Node.js & Express.js (REST API)
 MongoDB & Mongoose (Database)
 CORS (to handle cross-origin requests)
 
 🔧 Installation & Setup
+
 1️⃣ Clone the Repository
 
 sh
@@ -31,12 +36,14 @@ Copy
 Edit
 git clone https://github.com/saipabi/frontend-vegetables.git  
 cd frontend-vegetables  
+
 2️⃣ Install Dependencies
 
 sh
 Copy
 Edit
-npm install  
+npm install 
+
 3️⃣ Run the Development Server
 
 sh
@@ -58,12 +65,16 @@ npm start
 The backend will be running at http://localhost:5000.
 
 🌍 Live Demo
+
 🔗 Frontend: https://frontend-app-fruitveg.netlify.app/
 🔗 Backend API: https://backend-vegetablesapp.onrender.com/
 
 🏆 Contributors
+
 👤 Suriya R
+
 📧 Email: saipabi123@gmail.com
+
 🔗 GitHub: saipabi
 
 📜 License
